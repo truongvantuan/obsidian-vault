@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "GIT notes"
             }
-          },
-          {
-            "id": "b75e7b19bd54a5f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-22 16.13.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-22 16.13.56.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b75e7b19bd54a5f1",
+  "active": "7bb9b535b9508948",
   "lastOpenFiles": [
-    "truongtuan-vault/Git/GIT notes.md",
     "Excalidraw/Drawing 2024-11-22 16.13.56.excalidraw.md",
+    "truongtuan-vault/Git/GIT notes.md",
     "Excalidraw/java_concurrency.md",
     "Excalidraw",
     "truongtuan-vault/Git",
