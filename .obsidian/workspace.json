@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "GIT notes"
             }
+          },
+          {
+            "id": "b75e7b19bd54a5f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-22 16.13.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 16.13.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "truongtuan-vault/Java Concerrency/Race Conditions.md"
+                "file": "Excalidraw/Drawing 2024-11-22 16.13.56.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Race Conditions"
+              "title": "Outline of Drawing 2024-11-22 16.13.56.excalidraw"
             }
           },
           {
@@ -159,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bb9b535b9508948",
+  "active": "30760b14b2453b65",
   "lastOpenFiles": [
-    "Excalidraw/java_concurrency.md",
     "truongtuan-vault/Git/GIT notes.md",
+    "Excalidraw/Drawing 2024-11-22 16.13.56.excalidraw.md",
+    "Excalidraw/java_concurrency.md",
     "Excalidraw",
     "truongtuan-vault/Git",
     "truongtuan-vault/Interview Prepare/Network monitoring.md",
