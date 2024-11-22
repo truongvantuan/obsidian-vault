@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "GIT notes"
             }
-          },
-          {
-            "id": "64a4844d2eaecfb1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/java_concurrency.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "java_concurrency"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30760b14b2453b65",
+  "active": "7bb9b535b9508948",
   "lastOpenFiles": [
-    "truongtuan-vault/Git/GIT notes.md",
     "Excalidraw/java_concurrency.md",
+    "truongtuan-vault/Git/GIT notes.md",
     "Excalidraw",
     "truongtuan-vault/Git",
     "truongtuan-vault/Interview Prepare/Network monitoring.md",
