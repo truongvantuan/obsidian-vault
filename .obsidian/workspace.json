@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5aeead991af48892",
+    "type": "split",
+    "children": [
+      {
+        "id": "d933fedac597c757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb9b535b9508948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "truongtuan-vault/Git/GIT notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT notes"
+            }
+          },
+          {
+            "id": "64a4844d2eaecfb1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/java_concurrency.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "java_concurrency"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1d36e9f3103da34",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4323cf67fd2e23c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4151b0a15a6d4e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e3a4cdc114bf1c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7abb738caa9a7f1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.51103591918945
+  },
+  "right": {
+    "id": "318bce68ace2bc8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "78719497d32d0753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "423c9088b141ba5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "truongtuan-vault/Java Concerrency/Concurrency Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Concurrency Models"
+            }
+          },
+          {
+            "id": "0e605e8c8b300e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "09bc3507557c1857",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "610c0f1b92dfde44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "truongtuan-vault/Java Concerrency/Race Conditions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Race Conditions"
+            }
+          },
+          {
+            "id": "30760b14b2453b65",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 559.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "30760b14b2453b65",
+  "lastOpenFiles": [
+    "truongtuan-vault/Git/GIT notes.md",
+    "Excalidraw/java_concurrency.md",
+    "Excalidraw",
+    "truongtuan-vault/Git",
+    "truongtuan-vault/Interview Prepare/Network monitoring.md",
+    "truongtuan-vault/Interview Prepare/zabbix.md",
+    "truongtuan-vault/Interview Prepare/Java Interview.md",
+    "truongtuan-vault/Interview Prepare/Untitled.md",
+    "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
+    "truongtuan-vault/Spring Framework/Spring Security/Ant Matcher.md",
+    "truongtuan-vault/Spring Framework/Spring Funtionnal Interface/Built-In functional interface.md",
+    "truongtuan-vault/Java Concerrency/Race Conditions.md",
+    "truongtuan-vault/Java Concerrency/Java Memory Model.md",
+    "Pasted image 20241118114402.png",
+    "truongtuan-vault/Java Concerrency/Concurrency Models.md",
+    "Pasted image 20241118113520.png",
+    "truongtuan-vault/Interview Prepare",
+    "truongtuan-vault/Java Concerrency/Multithreading Benefits.md",
+    "truongtuan-vault/Untitled.canvas",
+    "race condition.md",
+    "truongtuan-vault/Excalidraw/Drawing 2024-10-24 12.56.24.excalidraw.md",
+    "truongtuan-vault/ZIMAGES/Pasted image 20241109103737.png",
+    "truongtuan-vault/ZIMAGES/Pasted image 20241109103740.png",
+    "truongtuan-vault/ZIMAGES",
+    "truongtuan-vault/ZIMAGES/Pasted image 20241109103754.png",
+    "truongtuan-vault/ZIMAGES/Pasted image 20241109103812.png",
+    "truongtuan-vault/Youtube  Videos/Video List.md",
+    "truongtuan-vault/Java Concerrency/Untitled 1",
+    "truongtuan-vault/Java Concerrency/Untitled",
+    "truongtuan-vault/Java Concerrency",
+    "truongtuan-vault/Spring Framework/Notes/Spring Security Notes.md",
+    "truongtuan-vault/Welcome.md",
+    "truongtuan-vault"
+  ]
+}

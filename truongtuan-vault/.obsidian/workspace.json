@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b87ae980e1e69df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eeb4443bcaca1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83667e2bfcb10864",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54ed6a0ffb15ed35",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2e00653b33848d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178a2914949128ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc3ff37b4dd7a316",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "071ae4c1f17db5a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "041c452d724143eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5132c4aeab269f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f845ac3dabd2584",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring Framework/Spring Security/SecurityFilterChain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SecurityFilterChain"
+            }
+          },
+          {
+            "id": "5a9f0469be0cfe4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring Framework/Spring Security/SecurityFilterChain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SecurityFilterChain"
+            }
+          },
+          {
+            "id": "825491835e8e55d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1724f6456c2bbcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "83667e2bfcb10864",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-24 12.56.24.excalidraw.md",
+    "Spring Framework/Spring Security/Ant Matcher.md",
+    "Spring Framework/Spring Security/SecurityFilterChain.md",
+    "Excalidraw",
+    "Spring Framework/Notes/Spring Security Notes.md",
+    "Untitled.canvas",
+    "Youtube  Videos/Video List.md",
+    "Spring Framework/Spring Funtionnal Interface/Built-In functional interface.md",
+    "Spring Framework/Notes",
+    "Spring Framework/Spring Security/Untitled",
+    "Youtube  Videos",
+    "Spring Framework/Spring Funtionnal Interface",
+    "Spring Framework/Untitled.md",
+    "Spring Framework/Spring Security",
+    "create a link.md",
+    "Spring Framework",
+    "Welcome.md"
+  ]
+}
