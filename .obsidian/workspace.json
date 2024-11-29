@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
+                "file": "truongtuan-vault/Interview Prepare/Network monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Data JPA"
+              "title": "Network monitoring"
             }
           }
         ]
@@ -169,15 +169,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7bb9b535b9508948",
   "lastOpenFiles": [
+    "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
     "truongtuan-vault/Interview Prepare/Network monitoring.md",
     "truongtuan-vault/Git/GIT notes.md",
-    "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
     "truongtuan-vault/Interview Prepare/zabbix.md",
     "truongtuan-vault/Interview Prepare/Java Interview.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
