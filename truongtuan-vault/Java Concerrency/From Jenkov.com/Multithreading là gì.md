@@ -1,0 +1,2 @@
+- Multithreading nghĩa là có nhiều hơn một Thread chạy trong cùng một ứng dụng.
+- 
