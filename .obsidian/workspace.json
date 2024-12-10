@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "63238700bbcf496a",
+        "id": "38895639d1928610",
         "type": "tabs",
         "children": [
           {
-            "id": "b3159e5b50a90c7a",
+            "id": "fd9c2587564e6abc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "truongtuan-vault/Interview Prepare/Java concurrency.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Java concurrency"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.51103591918945
+    "width": 303.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "318bce68ace2bc8e",
@@ -169,11 +174,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3159e5b50a90c7a",
+  "active": "fd9c2587564e6abc",
   "lastOpenFiles": [
-    "Pasted image 20241118113520.png",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/4. Creating and starting Java Threads.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/9. Lock.md",
+    "truongtuan-vault/Interview Prepare/Java concurrency.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/8. Volatile.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/7. Thread safety and Shared resources.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/6. Race conditions.md",
+    "2024-12-09.md",
+    "truongtuan-vault/Java Concerrency/Race Conditions.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/5. Java Virtual Thread.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/4. Creating and starting Java Threads.md",
+    "truongtuan-vault/Java Concerrency/Multithreading Benefits.md",
+    "Pasted image 20241118113520.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209112133.png",
     "Pasted image 20241209092235.png",
     "Pasted image 20241209092712.png",
@@ -203,15 +216,8 @@
     "Excalidraw",
     "truongtuan-vault/Git",
     "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
-    "truongtuan-vault/Spring Framework/Spring Security/Ant Matcher.md",
-    "truongtuan-vault/Spring Framework/Spring Funtionnal Interface/Built-In functional interface.md",
-    "truongtuan-vault/Java Concerrency/Race Conditions.md",
-    "truongtuan-vault/Java Concerrency/Java Memory Model.md",
-    "truongtuan-vault/Java Concerrency/Concurrency Models.md",
     "truongtuan-vault/Interview Prepare",
-    "truongtuan-vault/Java Concerrency/Multithreading Benefits.md",
     "truongtuan-vault/Untitled.canvas",
-    "race condition.md",
     "truongtuan-vault/ZIMAGES",
     "truongtuan-vault/Java Concerrency/Untitled 1",
     "truongtuan-vault/Java Concerrency",
