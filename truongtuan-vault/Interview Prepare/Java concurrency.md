@@ -18,3 +18,5 @@
 	6. Giảm Synchronization Block
 		1. Synchronization có thể làm chậm code.
 		2. Chia nhỏ Synchronized Block nhỏ nhất có thể.
+	7. Validate dữ liệu trước khi xử lý
+	8. 
