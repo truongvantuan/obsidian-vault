@@ -5,13 +5,15 @@
 	- producer: gửi message.
 	- broker: handle tin nhắn đến và ghi vào broker partitions, cho phép consumer đọc các message từ đây.
 	- consumer: nhận tin nhắn.
-- Kafka được đinh vị như là event streaming platform.
+- Kafka được đinh vị (positioned) như là event streaming platform.
 
 ## Compute layer
 
 > Cho phép các nền tảng ứng dụng giao tiếp với Kafka broker thông qua API.
 
-- Producer sử dụng Producer API, nếu là Database thì sử dụng Kafka Connect.
+- Producer sử dụng Producer API.
+- Consumer sử dụng Consumer API.
+- Nếu là Database thì sử dụng Kafka Connect.
 
 ## Storage layer
 
@@ -67,4 +69,5 @@ public class CustomPartitioner implements Partitioner {
 	1. Stateful message.
 	2. Đảm bảo thứ tứ message cùng key.
 	3. Xử lý parallel hiệu quả: Các message cùng chung logic được gom nhóm theo partition. Dễ dàng xử lý parallel phía consumer. Example: order theo từng khách hàng sẽ được xử lý song song cùng lúc.
-	
+
+## Consumer Group

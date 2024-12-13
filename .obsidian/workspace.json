@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+                "file": "truongtuan-vault/Spring Framework/Transaction Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka - How does it work?"
+              "title": "Transaction Management"
             }
           }
         ]
@@ -175,13 +175,16 @@
   },
   "active": "fd9c2587564e6abc",
   "lastOpenFiles": [
+    "truongtuan-vault/Microservices/Race condition in Microservice.md",
+    "truongtuan-vault/Spring Framework/Transaction Management.md",
+    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+    "truongtuan-vault/Microservices",
     "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/Interview Prepare/zabbix.md",
     "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
     "truongtuan-vault/Interview Prepare/Network monitoring.md",
     "truongtuan-vault/Interview Prepare/Java concurrency.md",
     "truongtuan-vault/Java Annotations/@RetryableTopic.md",
-    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "truongtuan-vault/Java Annotations",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/7. Thread safety and Shared resources.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/5. Java Virtual Thread.md",
@@ -211,8 +214,6 @@
     "truongtuan-vault/Java Concerrency/From Jenkov.com",
     "truongtuan-vault/Java Concerrency/1..md",
     "truongtuan-vault/Git/GIT notes.md",
-    "truongtuan-vault/Interview Prepare/Java Interview.md",
-    "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241118114402.png",
     "truongtuan-vault/Linux",
     "Excalidraw",
@@ -220,7 +221,6 @@
     "truongtuan-vault/Interview Prepare",
     "truongtuan-vault/Untitled.canvas",
     "truongtuan-vault/ZIMAGES",
-    "truongtuan-vault/Java Concerrency/Untitled 1",
-    "truongtuan-vault/Java Concerrency"
+    "truongtuan-vault/Java Concerrency/Untitled 1"
   ]
 }
