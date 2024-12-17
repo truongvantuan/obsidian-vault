@@ -49,6 +49,7 @@ Transaction là chuỗi các hành động được thực hiện như là một
 		- Transaction A tiếp tục câu truy vấn trên và thấy có 1 bản ghi mới so với kết quả trước đó.
 2. Isolation Level
 	 Spring cho phép cấu hình isolation level cho transaction thông qua attribute isolation=Isolation.LEVEL
+	
 	 1. READ_UNCOMMITTED: Cấp độ thấp nhất. Transaction có thể đọc thay đổi của một transaction khác khi chưa được commit.
 		 - Issues prevent: None
 		 - Problem allowed:
@@ -81,3 +82,5 @@ Transaction là chuỗi các hành động được thực hiện như là một
 			- Phantom Read
 		- Problem allowed:
 			- None
+		- Use case:
+			- Ứng dụng ngân hàng, kho bãi, nhà cung ứng. Bắt buộc tính nhất quán toàn diện.
