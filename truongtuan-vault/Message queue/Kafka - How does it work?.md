@@ -17,7 +17,6 @@
 
 ## Storage layer
 
-
 ## Basic of Topic and Partition.
 1. Topic: logical grouping of messages, các message được gom nhóm theo một logic nào đó.
 2. Partition:

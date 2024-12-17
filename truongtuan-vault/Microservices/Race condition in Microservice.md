@@ -45,6 +45,6 @@ public class RedisLockService {
 > Thiết kế kiến trúc sao cho các services giao tiếp thông qua event.
 - Đảm bảo xử lý message theo idempotency.
 3. Transaction management
-	1. ads
+	[[Transaction Management]]
 ## Prevent concurrent request
-
+Implement Rate Limit, queue request và xử lý tuần tự sử dụng Kafka, RabbitMQ.
