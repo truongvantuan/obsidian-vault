@@ -63,12 +63,17 @@ Transaction là chuỗi các hành động được thực hiện như là một
 		- Problems allowed:
 			- Non-Repeatable Read
 			- Phantom Read
+		- Use case:
+			- Được sử dụng mặc định ở MySQL, PostgreSQL.
+			- Thích hợp cho hầu hết mọi ứng dụng chung chung.
 	3. REPEATABLE_READ: đảm bảo một transaction đọc bản ghi nhiều hơn một lần, giá trị vẫn nhất quán giữa các lần, kể quả transaction khác chỉnh sửa và commit data này giữa các lần đọc. Level này tạo nhiều consistent snapshot của data.
 		- Issues prevented:
 			- Dirty Read
-			- Non-Repeatable Read.
+			- Non-Repeatable Read
 		- Problem allowed:
 			- Phantom Read
+		- Use case:
+			- Ứng dụng tài chính, báo cáo yêu cầu giá trị của một record là nhất quán trong suốt transaction.
 	4. SERIALIZABLE: Cấp độ cao nhất. Tất cả transaction được thực thi tuần tự, cô lập hoàn toàn. Clock bất kể truy cập đồng thời nào lên dữ liệu chung.
 		- Issues prevented:
 			- Dirty Read
