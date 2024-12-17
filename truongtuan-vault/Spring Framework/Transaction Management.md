@@ -1,4 +1,4 @@
-Transaction là chuỗi các hành động được thực hiện như là một đơn vị 
+Transaction là chuỗi các hành động được thực hiện như là một đơn vị.
 ## Key concepts
 
 1. Atomicity: tất cả các thao tác thành công hoặc không có thao tác nào tạo thay đổi lên resource.
@@ -27,3 +27,52 @@ Transaction là chuỗi các hành động được thực hiện như là một
 
 > Isolation level (mức độ cô lập) mô tả cách một transaction tương tác với transaction đống thời khác như nào.
 > Cụ thể về khả năng hiển thị (visible) và sửa đổi (modification) dữ liệu chung.
+
+1. Các vấn đề được giải quyết bởi Isolation Level
+	1. Dirty Read
+		Một transaction đọc uncommitted change bởi một transaction khác. Nếu uncommitted transaction roll back, data đọc bởi transaction này sẽ không còn tồn tại hoặc không toàn vẹn (inconsistent).
+		Example:
+		- Transaction A cập nhật một bản ghi và không commit.
+		- Transaction B đọc bản ghi chưa được commit này.
+		- Nếu transaction A roll back, Transaction B đang đọc một bản ghi không hợp lệ.
+	2. Non-Repeatable Read
+		Một Transaction đọc một bản ghi 2 lần trong thời gian thực thi của nó và nhận về các giá trị khác nhau vì một transaction khác đã thay đổi và commit lên bản ghi đó.
+		Example:
+		- Transaction A đọc 1 record R.
+		- Transaction B cập nhật và commit bản ghi R.
+		- Transaction A đọc lại R và nhận được giá trị khác.
+	3. Phantom Read
+		Một transaction truy vấn database 2 lần với cùng một điều kiện truy vấn (query condition), nhưng kết quả thay đổi bởi vì có transaction khác thay đổi các bản ghi thỏa mãn điều kiện.
+		Example:
+		- Transaction A truy vấn bản ghi với điều kiện age > 30
+		- Transaction B chèn vào một bản ghi có age = 40
+		- Transaction A tiếp tục câu truy vấn trên và thấy có 1 bản ghi mới so với kết quả trước đó.
+2. Isolation Level
+	 Spring cho phép cấu hình isolation level cho transaction thông qua attribute isolation=Isolation.LEVEL
+	 1. READ_UNCOMMITTED: Cấp độ thấp nhất. Transaction có thể đọc thay đổi của một transaction khác khi chưa được commit.
+		 - Issues prevent: None
+		 - Problem allowed:
+			 - Dirty read
+			 - Non-Repeatable read
+			 - Phantom read
+		- Use case:
+			- Thích hợp cho ứng dụng ưu tiên hiệu năng.
+			- Ứng dụng cho phép tính không toàn vẹn dữ liệu.
+	2. READ_COMMITTED: Transaction không được đọc thay đổi chưa được commit từ transaction khác. Data được commit và nhất quán tại thời điểm đọc, nhưng transaction khác có thể vẫn cập nhật data lúc runtime.
+		- Issues prevented: Dirty read
+		- Problems allowed:
+			- Non-Repeatable Read
+			- Phantom Read
+	3. REPEATABLE_READ: đảm bảo một transaction đọc bản ghi nhiều hơn một lần, giá trị vẫn nhất quán giữa các lần, kể quả transaction khác chỉnh sửa và commit data này giữa các lần đọc. Level này tạo nhiều consistent snapshot của data.
+		- Issues prevented:
+			- Dirty Read
+			- Non-Repeatable Read.
+		- Problem allowed:
+			- Phantom Read
+	4. SERIALIZABLE: Cấp độ cao nhất. Tất cả transaction được thực thi tuần tự, cô lập hoàn toàn. Clock bất kể truy cập đồng thời nào lên dữ liệu chung.
+		- Issues prevented:
+			- Dirty Read
+			- Non-Repeatable Read
+			- Phantom Read
+		- Problem allowed:
+			- None
