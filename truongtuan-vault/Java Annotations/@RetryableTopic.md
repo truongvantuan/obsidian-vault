@@ -17,7 +17,7 @@
 	3. Excluding Exception: xác định ngoại lệ cho retry và gửi đến DLQ khi gặp.
 4. 
 
-Example
+Example:
 ```java
 @Documented  
 @RetryableTopic  
@@ -38,4 +38,5 @@ public @interface RetrySupportDql {
     SameIntervalTopicReuseStrategy sameIntervalTopicReuseStrategy() default SameIntervalTopicReuseStrategy.SINGLE_TOPIC;  
 }
 ```
+
 - RetrySupportDql đánh dấy mở rộng @RetryableTopic
