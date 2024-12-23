@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
+                "file": "truongtuan-vault/Message queue/Kafka - How does it work?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Thread pool"
+              "title": "Kafka - How does it work?"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "f3f48129a4701a1a",
   "lastOpenFiles": [
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
+    "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
     "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
     "truongtuan-vault/Interview Prepare/Network monitoring.md",
     "truongtuan-vault/Interview Prepare/Java concurrency.md",
@@ -202,7 +203,6 @@
     "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "truongtuan-vault/Microservices/Race condition in Microservice.md",
     "truongtuan-vault/Spring Framework/Transaction Management.md",
-    "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/Java Concerrency/Multithreading Benefits.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/6. Race conditions.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/8. Volatile.md",
