@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5110321044922
+    "width": 349.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "318bce68ace2bc8e",
@@ -175,9 +176,13 @@
   },
   "active": "fd9c2587564e6abc",
   "lastOpenFiles": [
+    "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
+    "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
+    "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
+    "truongtuan-vault/Linux/Firefox Browser.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/2. Concurrency models.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218151241.png",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/10. Thread Signaling in Java.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/9.1 Read - Write lock.md",
@@ -191,7 +196,6 @@
     "truongtuan-vault/Java Concerrency/Concurrency Models.md",
     "truongtuan-vault/Java Annotations/@RetryableTopic.md",
     "truongtuan-vault/Linux/Kernel build.md",
-    "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Youtube  Videos/Video List.md",
     "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "truongtuan-vault/Microservices/Race condition in Microservice.md",
@@ -211,8 +215,6 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092712.png",
     "Pasted image 20241209111927.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241208164135.png",
-    "truongtuan-vault/ZIMAGES/Pasted image 20241208164127.png",
-    "truongtuan-vault/ZIMAGES/Pasted image 20241208132933.png",
     "truongtuan-vault/Java Concerrency/From Jenkov.com",
     "truongtuan-vault/Linux",
     "Excalidraw",
