@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+                "file": "truongtuan-vault/VTM/SDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka - How does it work?"
+              "title": "SDK"
             }
           }
         ]
@@ -120,19 +120,6 @@
             }
           },
           {
-            "id": "09bc3507557c1857",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "610c0f1b92dfde44",
             "type": "leaf",
             "state": {
@@ -153,9 +140,22 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "29f171e9b50d3bde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,6 +175,9 @@
   },
   "active": "f3f48129a4701a1a",
   "lastOpenFiles": [
+    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+    "truongtuan-vault/VTM/SDK.md",
+    "truongtuan-vault/VTM",
     "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
@@ -200,12 +203,10 @@
     "truongtuan-vault/Java Annotations/@RetryableTopic.md",
     "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/Youtube  Videos/Video List.md",
-    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "truongtuan-vault/Microservices/Race condition in Microservice.md",
     "truongtuan-vault/Spring Framework/Transaction Management.md",
     "truongtuan-vault/Java Concerrency/Multithreading Benefits.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/6. Race conditions.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/8. Volatile.md",
     "truongtuan-vault/Microservices",
     "truongtuan-vault/Java Annotations",
     "truongtuan-vault/Message queue",
@@ -220,7 +221,6 @@
     "truongtuan-vault/Git",
     "truongtuan-vault/Interview Prepare",
     "truongtuan-vault/Untitled.canvas",
-    "truongtuan-vault/ZIMAGES",
-    "truongtuan-vault/Java Concerrency/Untitled 1"
+    "truongtuan-vault/ZIMAGES"
   ]
 }
