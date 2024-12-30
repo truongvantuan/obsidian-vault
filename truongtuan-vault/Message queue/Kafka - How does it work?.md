@@ -70,3 +70,27 @@ public class CustomPartitioner implements Partitioner {
 	3. Xử lý parallel hiệu quả: Các message cùng chung logic được gom nhóm theo partition. Dễ dàng xử lý parallel phía consumer. Example: order theo từng khách hàng sẽ được xử lý song song cùng lúc.
 
 ## Consumer Group
+
+
+## Zookeeper
+46
+
+[](https://stackoverflow.com/posts/48652680/timeline)
+
+> I am going to implement the orchestration of a set of microservices in my application.
+
+This is a hard problem to solve by yourself. You are probably better off using an existing orchestration system (see below).
+
+> Is there any other powerful tool?
+
+You should look into kubernetes, which seems to be the standard in orchestration these days. It has many additional benefits (enable scalability, self-healing, etc) and is widely used in production today. See the following links:
+
+- [Kubernetes webpage](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+- [Article](https://www.stratoscale.com/blog/kubernetes/container-orchestration-kubernetes-12-key-features/)
+
+Regarding comparing zookeeper, eureka and kubernetes:
+
+- [Zookeeper](https://zookeeper.apache.org/) is a distributed key value store. It can be used as the basis to implement service discovery (similar to etcd).
+- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) is primarily a service locator used as part of Netflixes load balancers and failover(allow finding the right service targets for distributing client calls to members of an application cluster).
+- [Kubernetes](https://kubernetes.io/) is a container orchestration solution that includes the deployment, discovery and self-healing of services. For a complete list of features, check the link above. The service discovery in kubernetes is based on dns in the virtual network it spans and builds upon etcd.
+- [Consul](https://github.com/hashicorp/consul) (mentioned in the other answer) is a service discovery framework with a REST interface and some additional features (Health Checking, Service Segmentation,..). It has its own internal distributed key value store that can be used as well.

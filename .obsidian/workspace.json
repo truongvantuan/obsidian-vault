@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/VTM/SDK.md",
+                "file": "truongtuan-vault/Message queue/Kafka - How does it work?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDK"
+              "title": "Kafka - How does it work?"
             }
           }
         ]
@@ -175,16 +175,24 @@
   },
   "active": "f3f48129a4701a1a",
   "lastOpenFiles": [
-    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
-    "truongtuan-vault/VTM/SDK.md",
-    "truongtuan-vault/VTM",
+    "truongtuan-vault/Message queue/Kafka environment variable.md",
+    "truongtuan-vault/VTM/Database.md",
+    "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
+    "Excalidraw",
     "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
-    "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
+    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+    "truongtuan-vault/Microservices/Race condition in Microservice.md",
+    "truongtuan-vault/Spring Framework/Transaction Management.md",
+    "truongtuan-vault/Java Annotations/@RetryableTopic.md",
     "truongtuan-vault/Interview Prepare/Network monitoring.md",
     "truongtuan-vault/Interview Prepare/Java concurrency.md",
+    "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
+    "truongtuan-vault/Interview Prepare/zabbix.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
+    "truongtuan-vault/Linux/Kernel build.md",
+    "truongtuan-vault/VTM",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
+    "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
@@ -200,13 +208,6 @@
     "truongtuan-vault/Java Concerrency/Java Memory Model.md",
     "truongtuan-vault/Java Concerrency/Java Concurrency Exception Handling.md",
     "truongtuan-vault/Java Concerrency/Concurrency Models.md",
-    "truongtuan-vault/Java Annotations/@RetryableTopic.md",
-    "truongtuan-vault/Linux/Kernel build.md",
-    "truongtuan-vault/Youtube  Videos/Video List.md",
-    "truongtuan-vault/Microservices/Race condition in Microservice.md",
-    "truongtuan-vault/Spring Framework/Transaction Management.md",
-    "truongtuan-vault/Java Concerrency/Multithreading Benefits.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/6. Race conditions.md",
     "truongtuan-vault/Microservices",
     "truongtuan-vault/Java Annotations",
     "truongtuan-vault/Message queue",
@@ -217,7 +218,6 @@
     "Pasted image 20241209111927.png",
     "truongtuan-vault/Java Concerrency/From Jenkov.com",
     "truongtuan-vault/Linux",
-    "Excalidraw",
     "truongtuan-vault/Git",
     "truongtuan-vault/Interview Prepare",
     "truongtuan-vault/Untitled.canvas",
