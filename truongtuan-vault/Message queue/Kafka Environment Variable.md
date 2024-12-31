@@ -36,8 +36,12 @@ Biến này chỉ định một Địa chỉ bên ngoài (external address), đ�
 - Yêu cầu ít nhất một giá trị.
 - <listener_name>
 	- Logical name để xác định listener.
-	- Phải được khai báo tại KAFKA_LISTENERS.
+	- Phải được khai báo tại [[#KAFKA_LISTENER]].
 - <host_name>
 	- DNS name hoặc địa chỉ IP mà client sử dụng để kết nối đến brocker.
 	- Thường là địa chỉ external IP hoặc hostname có thể truy cập bởi client.
 - \<port>
+	- Cổng nơi Listener lắng nghe kết nối từ Client.
+
+**Why?**
+> Khi Kafka Client (producer, consumer) kết nối tới Broker,  
