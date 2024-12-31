@@ -8,7 +8,7 @@
    Optional<Account> findAccountForUpdate(@Param("id") Long id);
 ```
 
-## Application-Level Synchronization
+## Application-Level (codebase) Synchronization
 
 > Triển khai code đảm bảo thread-safe, các cơ chế blocking để quản lý cho các critical section.
 - Synchronized
