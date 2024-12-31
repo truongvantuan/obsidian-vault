@@ -1,8 +1,4 @@
 
-| Variable                             | Meaning                                                                                     |
-| :----------------------------------- | :------------------------------------------------------------------------------------------ |
-| KAFKA_BROCKER_ID                     | - Gán một ID duy nhất cho Brocker trong Kafka Cluster.<br>- Giúp xác định Broker trong cụm. |
-| KAFKA_LISTENER_SECURITY_PROTOCOL_MAP | -                                                                                           |
 ## KAFKA_BROCKER_ID
 - Gán một ID duy nhất cho Brocker trong Kafka Cluster.
 - Giúp xác định Broker trong cụm.
