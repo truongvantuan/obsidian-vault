@@ -14,7 +14,7 @@
 
 - Giúp cấu hình giao thức bảo mật cho Kafka listener.
 - Giao thức bảo mật (security protocol) xác định cách các client, controller, brocker giao tiếp với nhau.
-- ```<Listener-Name>```:
+- `<Listener-Name>`:
 	- Giá trị được khai báo trong biến KAFKA_LISTENERS
 - ```<Security-Protocol>```:
 	- giao thức bảo mật, thuộc một trong các giá trị sau.
