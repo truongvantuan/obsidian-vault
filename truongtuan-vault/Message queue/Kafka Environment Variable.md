@@ -1,4 +1,11 @@
 
+## Thuật ngữ
+
+1. Kafka Client:
+	1. External Clients:
+		- Là các client bên ngoài Kafka tham gia vào việc kết nối, sử dụng và tương tác với Broker như: Producer, Consumer, Microservice, Ứng dụng.
+		- Kết nối với Kafka Broker thông qua địa chỉ được khai báo tại [[#KAFKA_ADVERTISED_LISTENERS]]
+	1. Internal Clients: 
 ## KAFKA_BROCKER_ID
 
 - Gán một ID duy nhất cho Brocker trong Kafka Cluster.
@@ -44,5 +51,16 @@ Biến này chỉ định một Địa chỉ bên ngoài (external address), đ�
 - \<port>
 	- Cổng nơi Listener lắng nghe kết nối từ Client.
 
+**Cách client chọn đúng địa chỉ Listener.**
+1. Metadata từ Broker.
+	- Khi 1 client kết nối đến Kafka, ban đầu client sẽ sử dụng Bootstrap address (e.g., localhost:9092)
+	- Client này sẽ gửi yêu cầu metadata đến Broker.
+2. Được trả về Metadata có chưa Advertised Listeners.
+	- Response trả về từ Kafka chứa Adversited Listener Address của tất cả Broker trong Cluster.
+	- Là các giá trị được khai báo tại Env `KAFKA_ADVERTISED_LISTENERS`.
+3. Client Listener matching
+	- 
+
 **Why?**
 > Khi Kafka Client (producer, consumer) kết nối tới Broker,  
+
