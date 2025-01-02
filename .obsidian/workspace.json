@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Message queue/Kafka Environment Variable.md",
+                "file": "truongtuan-vault/Message queue/Kafka - How does it work?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka Environment Variable"
+              "title": "Kafka - How does it work?"
             }
           }
         ]
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,10 @@
   },
   "active": "3e38b71d5bd59324",
   "lastOpenFiles": [
-    "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/Message queue/Kafka Environment Variable.md",
+    "truongtuan-vault/English/Words to rewind.md",
+    "truongtuan-vault/English",
+    "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "KAFKA_ADVERTISED_LISTENERS.md",
     "truongtuan-vault/Microservices/Race condition in Microservice.md",
@@ -209,7 +211,6 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20241218151241.png",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/10. Thread Signaling in Java.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/9.1 Read - Write lock.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/9. Lock.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218132627.png",
     "truongtuan-vault/Microservices",
     "truongtuan-vault/Java Annotations",
@@ -220,7 +221,6 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092712.png",
     "Pasted image 20241209111927.png",
     "truongtuan-vault/Java Concerrency/From Jenkov.com",
-    "truongtuan-vault/Linux",
     "truongtuan-vault/Untitled.canvas"
   ]
 }
