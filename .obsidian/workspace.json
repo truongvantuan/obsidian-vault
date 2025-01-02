@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+                "file": "truongtuan-vault/Cache/Cache patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka - How does it work?"
+              "title": "Cache patterns"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,18 +174,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e38b71d5bd59324",
+  "active": "4e3a4cdc114bf1c6",
   "lastOpenFiles": [
+    "truongtuan-vault/Development stack/Skills.md",
+    "truongtuan-vault/Cache/Cache patterns.md",
+    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
+    "truongtuan-vault/Cache",
+    "Untitled/2024-12-31.md",
+    "Untitled",
     "truongtuan-vault/Message queue/Kafka Environment Variable.md",
     "truongtuan-vault/English/Words to rewind.md",
     "truongtuan-vault/English",
     "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
-    "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "KAFKA_ADVERTISED_LISTENERS.md",
     "truongtuan-vault/Microservices/Race condition in Microservice.md",
-    "truongtuan-vault/Development stack/Skills.md",
     "truongtuan-vault/Development stack",
-    "2024-12-31.md",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/2. Concurrency models.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Linux/Kernel build.md",
@@ -210,17 +214,14 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218151241.png",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/10. Thread Signaling in Java.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/9.1 Read - Write lock.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218132627.png",
     "truongtuan-vault/Microservices",
     "truongtuan-vault/Java Annotations",
-    "truongtuan-vault/Message queue",
     "truongtuan-vault/ZIMAGES/Pasted image 20241118113520.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209112133.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092235.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092712.png",
     "Pasted image 20241209111927.png",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com",
     "truongtuan-vault/Untitled.canvas"
   ]
 }
