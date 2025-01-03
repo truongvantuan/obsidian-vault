@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Cache/Cache patterns.md",
+                "file": "truongtuan-vault/Java/Java Time and Date.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache patterns"
+              "title": "Java Time and Date"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,10 +173,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e3a4cdc114bf1c6",
+  "active": "3e38b71d5bd59324",
   "lastOpenFiles": [
-    "truongtuan-vault/Development stack/Skills.md",
+    "truongtuan-vault/Cache/Spring Boot caching.md",
+    "truongtuan-vault/Java/Java Time and Date.md",
+    "truongtuan-vault/Java",
     "truongtuan-vault/Cache/Cache patterns.md",
+    "truongtuan-vault/Microservices/Spring Cloud OpenFeign.md",
+    "truongtuan-vault/Spring Framework/Transaction Management.md",
+    "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
+    "truongtuan-vault/Spring Framework/Spring Security/Ant Matcher.md",
+    "truongtuan-vault/Spring Framework/Spring Funtionnal Interface/Built-In functional interface.md",
+    "truongtuan-vault/Development stack/Skills.md",
+    "truongtuan-vault/Task/Daily tasks.md",
+    "truongtuan-vault/Task",
     "truongtuan-vault/Message queue/Kafka - How does it work?.md",
     "truongtuan-vault/Cache",
     "Untitled/2024-12-31.md",
@@ -200,23 +209,13 @@
     "truongtuan-vault/VTM/Database.md",
     "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
     "Excalidraw",
-    "truongtuan-vault/Spring Framework/Transaction Management.md",
     "truongtuan-vault/Java Annotations/@RetryableTopic.md",
-    "truongtuan-vault/Interview Prepare/Network monitoring.md",
-    "truongtuan-vault/Interview Prepare/Java concurrency.md",
-    "truongtuan-vault/Interview Prepare/Spring Data JPA.md",
-    "truongtuan-vault/Interview Prepare/zabbix.md",
     "truongtuan-vault/VTM",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/11. Thread pool.md",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/1. Multithreading.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218151241.png",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/10. Thread Signaling in Java.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218132627.png",
-    "truongtuan-vault/Microservices",
-    "truongtuan-vault/Java Annotations",
     "truongtuan-vault/ZIMAGES/Pasted image 20241118113520.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209112133.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092235.png",
