@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50b322a5ae8e356d",
+        "id": "1ea5acd93e7be36c",
         "type": "tabs",
         "children": [
           {
-            "id": "3e38b71d5bd59324",
+            "id": "b345a2c3e96cfca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e38b71d5bd59324",
+  "active": "b345a2c3e96cfca7",
   "lastOpenFiles": [
-    "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Database/PostgreSQL.md",
+    "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Spring Framework/Transaction Management.md",
     "truongtuan-vault/Java/Java Time and Date.md",
     "truongtuan-vault/Database",
