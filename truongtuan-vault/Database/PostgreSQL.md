@@ -11,4 +11,4 @@
 2. Snapshot
 	1. PostgreSQL sử dụng MVCC để quản lý các transaction đồng thời.
 	2. Khi transaction bắt đầu, một snapshot được tạo để theo dõi các records trong phạm vị ảnh hưởng của trasaction (transaction nhìn thấy).
-	3.     
+	3. 
