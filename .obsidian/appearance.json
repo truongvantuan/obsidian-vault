@@ -2,6 +2,6 @@
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "theme": "system",
-  "textFontFamily": "Merriweather",
+  "textFontFamily": "Merriweather,Bookerly",
   "cssTheme": "Things"
 }

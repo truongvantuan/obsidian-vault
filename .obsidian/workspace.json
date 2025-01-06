@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Java/Java Time and Date.md",
+                "file": "truongtuan-vault/Database/PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Time and Date"
+              "title": "PostgreSQL"
             }
           }
         ]
@@ -175,12 +175,15 @@
   },
   "active": "3e38b71d5bd59324",
   "lastOpenFiles": [
-    "truongtuan-vault/Cache/Spring Boot caching.md",
+    "truongtuan-vault/Database/Relational Database.md",
+    "truongtuan-vault/Database/PostgreSQL.md",
+    "truongtuan-vault/Spring Framework/Transaction Management.md",
     "truongtuan-vault/Java/Java Time and Date.md",
+    "truongtuan-vault/Database",
+    "truongtuan-vault/Cache/Spring Boot caching.md",
     "truongtuan-vault/Java",
     "truongtuan-vault/Cache/Cache patterns.md",
     "truongtuan-vault/Microservices/Spring Cloud OpenFeign.md",
-    "truongtuan-vault/Spring Framework/Transaction Management.md",
     "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
     "truongtuan-vault/Spring Framework/Spring Security/Ant Matcher.md",
     "truongtuan-vault/Spring Framework/Spring Funtionnal Interface/Built-In functional interface.md",
@@ -207,10 +210,7 @@
     "truongtuan-vault/Spring Framework/Spring Boot/Spring Boot profiles.md",
     "truongtuan-vault/Spring Framework/Spring Boot",
     "truongtuan-vault/VTM/Database.md",
-    "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
     "Excalidraw",
-    "truongtuan-vault/Java Annotations/@RetryableTopic.md",
-    "truongtuan-vault/VTM",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",

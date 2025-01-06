@@ -30,7 +30,7 @@ Transaction là chuỗi các hành động được thực hiện như là một
 
 1. Các vấn đề được giải quyết bởi Isolation Level
 	1. **Dirty Read**
-		Một transaction đọc uncommitted change bởi một transaction khác. Nếu uncommitted transaction roll back, data đọc bởi transaction này sẽ không còn tồn tại hoặc không toàn vẹn (inconsistent).
+		Một transaction (B) đọc uncommitted change bởi một transaction (A) khác. Nếu uncommitted transaction roll back (A), data đọc bởi transaction (B) này sẽ không còn tồn tại hoặc không toàn vẹn (inconsistent).
 		Example:
 		- Transaction A cập nhật một bản ghi và không commit.
 		- Transaction B đọc bản ghi chưa được commit này.
@@ -42,7 +42,7 @@ Transaction là chuỗi các hành động được thực hiện như là một
 		- Transaction B cập nhật và commit bản ghi R.
 		- Transaction A đọc lại R và nhận được giá trị khác.
 	3. **Phantom Read**
-		Một transaction truy vấn database 2 lần với cùng một điều kiện truy vấn (query condition), nhưng kết quả thay đổi bởi vì có transaction khác thay đổi các bản ghi thỏa mãn điều kiện.
+		Một transaction truy vấn database 2 lần với cùng một điều kiện truy vấn (query condition), nhưng kết quả thay đổi bởi vì có transaction khác thay đổi set bản ghi thỏa mãn điều kiện.
 		Example:
 		- Transaction A truy vấn bản ghi với điều kiện age > 30
 		- Transaction B chèn vào một bản ghi có age = 40
