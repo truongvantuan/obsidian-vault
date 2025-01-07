@@ -153,6 +153,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8b08bc8870fc6d24",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -174,10 +184,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b345a2c3e96cfca7",
+  "active": "ea1ff5173e512c4a",
   "lastOpenFiles": [
-    "truongtuan-vault/Database/Relational Database.md",
+    "truongtuan-vault/Linux/Kernel build.md",
+    "truongtuan-vault/Linux/Firefox Browser.md",
+    "truongtuan-vault/Microservices/Spring Cloud OpenFeign.md",
+    "truongtuan-vault/Microservices/Race condition in Microservice.md",
     "truongtuan-vault/Database/PostgreSQL.md",
+    "KAFKA_ADVERTISED_LISTENERS.md",
+    "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Docker/File manipulations.md",
     "truongtuan-vault/Docker",
     "truongtuan-vault/Spring Framework/Transaction Management.md",
@@ -186,7 +201,6 @@
     "truongtuan-vault/Cache/Spring Boot caching.md",
     "truongtuan-vault/Java",
     "truongtuan-vault/Cache/Cache patterns.md",
-    "truongtuan-vault/Microservices/Spring Cloud OpenFeign.md",
     "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
     "truongtuan-vault/Spring Framework/Spring Security/Ant Matcher.md",
     "truongtuan-vault/Spring Framework/Spring Funtionnal Interface/Built-In functional interface.md",
@@ -201,12 +215,8 @@
     "truongtuan-vault/English/Words to rewind.md",
     "truongtuan-vault/English",
     "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
-    "KAFKA_ADVERTISED_LISTENERS.md",
-    "truongtuan-vault/Microservices/Race condition in Microservice.md",
     "truongtuan-vault/Development stack",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/2. Concurrency models.md",
-    "truongtuan-vault/Linux/Firefox Browser.md",
-    "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/TODO/Learning TODO.md",
     "truongtuan-vault/TODO",
     "truongtuan-vault/Untitled.md",

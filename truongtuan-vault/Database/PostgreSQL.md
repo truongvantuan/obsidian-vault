@@ -26,4 +26,3 @@
 	1. Tính nhất quán tại một thời điểm: đảm bảo tính nhất quán trong việc đọc dữ liệu của các câu query có thời gian chạy lâu hoặc các job báo cáo. Nghĩa là không có sự thay đổi data trong quá trình câu query chạy.
 	2. Indexing và Vacuuming: cho phép PostgreSQL xác định các phiên bản record cũ, không còn được nhìn thấy bởi transaction và sẽ được loại bỏ vởi Vacuuming.
 	3. Concurrency: cho phép đồng thời truy cập data mà không block lẫn nhau.
-6. 
