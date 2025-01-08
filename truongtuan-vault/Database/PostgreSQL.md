@@ -26,3 +26,36 @@
 	1. Tính nhất quán tại một thời điểm: đảm bảo tính nhất quán trong việc đọc dữ liệu của các câu query có thời gian chạy lâu hoặc các job báo cáo. Nghĩa là không có sự thay đổi data trong quá trình câu query chạy.
 	2. Indexing và Vacuuming: cho phép PostgreSQL xác định các phiên bản record cũ, không còn được nhìn thấy bởi transaction và sẽ được loại bỏ vởi Vacuuming.
 	3. Concurrency: cho phép đồng thời truy cập data mà không block lẫn nhau.
+
+## Transaction
+
+> Transaction là chuỗi một hoặc nhiều hành động (step) được thực thi như là một đơn vị công việc (logical unit of work).
+
+- Các trạng thái trung gian giữa các bước không thể nhìn thấy bởi transaction đồng thời khác.
+- Nếu có lỗi xẩy, không có bước nào trong transaction tác động đến data.
+- Khi các transaction diễn ra đồng thời, không nhìn thấy trạng thái chưa hoàn thành giữa các transaction với nhau.
+
+## Write-Ahead Logging
+
+
+## Query Processing
+![[Pasted image 20250108112637.png]]
+1. Parsing
+- Parser kiểm tra tính đúng đắn trong câu query về mặt cú pháp.
+- Parser phân tích câu truy vấn và đưa ra cấu trúc Tree các thành phần cấu thành câu truy vấn.
+2. Rewriter
+- Kết quả từ Parser là input cho Rewriter
+- Rewriter sẽ viết lại và tối ưu query tree từ Parser.
+- Áp dụng các Rule lên câu truy vấn.
+- Row-level security sẽ được triển khai ở bước này.
+3. Planner
+4. Executor
+
+## Explain
+
+> EXPLAIN dùng để hiển thị kế hoạch thực thi của câu truy vấn.
+> EXPLAIN có thể sử dụng lên SELECT, CREATE, UPDATE, DELETE, EXECUTE, DECLARE, CREATE TABLE AS.
+
+**Syntax:**
+`EXPLAIN [ (parameter [, ...] ) ] statement`
+
