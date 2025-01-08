@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Database/PostgreSQL.md",
+                "file": "truongtuan-vault/Database/PostgreSQL/Basic concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "Basic concepts"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "b345a2c3e96cfca7",
   "lastOpenFiles": [
-    "truongtuan-vault/ZIMAGES/Pasted image 20250108112637.png",
     "truongtuan-vault/Database/Relational Database.md",
+    "truongtuan-vault/Database/PostgreSQL/Basic concepts.md",
+    "truongtuan-vault/Database/PostgreSQL",
+    "truongtuan-vault/ZIMAGES/Pasted image 20250108112637.png",
     "truongtuan-vault/Development stack/Skills.md",
-    "truongtuan-vault/Database/PostgreSQL.md",
     "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Microservices/Spring Cloud OpenFeign.md",
@@ -221,7 +222,6 @@
     "truongtuan-vault/TODO/Learning TODO.md",
     "truongtuan-vault/TODO",
     "truongtuan-vault/Untitled.md",
-    "truongtuan-vault/Spring Framework/Spring Boot",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
@@ -231,7 +231,6 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20241209112133.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092235.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209092712.png",
-    "Pasted image 20241209111927.png",
     "truongtuan-vault/Untitled.canvas"
   ]
 }

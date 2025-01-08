@@ -51,7 +51,7 @@
 3. Planner
 4. Executor
 
-## Explain
+## EXPLAIN
 
 > EXPLAIN dùng để hiển thị kế hoạch thực thi của câu truy vấn.
 > EXPLAIN có thể sử dụng lên SELECT, CREATE, UPDATE, DELETE, EXECUTE, DECLARE, CREATE TABLE AS.
@@ -59,3 +59,22 @@
 **Syntax:**
 `EXPLAIN [ (parameter [, ...] ) ] statement`
 
+- ANALYZE
+	- Tham số này thực thi câu lệnh và trả về query plan. Kết quả thực thi câu lệnh được loại bỏ nhưng câu lệnh vẫn được thực thi.
+	- Kết hợp với `ROLLBACK` để hủy bỏ kết quả của câu lệnh, nếu câu lệnh làm thay đổi trạng thái data.
+```postgresql
+BEGIN;
+
+EXPLAIN (ANALYZE) INSERT INTO Animal 
+(ani_id, name, weight_kg, cat_id, enc_id) 
+VALUES (28, 'Robin Robin', 0.5, 1, 2);
+
+ROLLBACK;
+```
+
+- VERBOSE
+	- Hiển thị thêm thông tin bổ sung.
+- COSTS
+	- Được áp dụng mặc định trong PostgreSQL.
+- FORMAT
+	- Xác định kiểu dữ liệu trả về của kết quả EXPLAIN
