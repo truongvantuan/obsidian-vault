@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Database/PostgreSQL/Basic concepts.md",
+                "file": "truongtuan-vault/Database/SQL Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic concepts"
+              "title": "SQL Language"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "b345a2c3e96cfca7",
   "lastOpenFiles": [
+    "truongtuan-vault/Database/PostgreSQL/Basic concept/Basic concepts.md",
+    "truongtuan-vault/Database/SQL Language.md",
+    "truongtuan-vault/Database/PostgreSQL/Basic concept",
     "truongtuan-vault/Database/Relational Database.md",
-    "truongtuan-vault/Database/PostgreSQL/Basic concepts.md",
     "truongtuan-vault/Database/PostgreSQL",
     "truongtuan-vault/ZIMAGES/Pasted image 20250108112637.png",
     "truongtuan-vault/Development stack/Skills.md",
@@ -220,7 +222,6 @@
     "truongtuan-vault/Development stack",
     "truongtuan-vault/Java Concerrency/From Jenkov.com/2. Concurrency models.md",
     "truongtuan-vault/TODO/Learning TODO.md",
-    "truongtuan-vault/TODO",
     "truongtuan-vault/Untitled.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
