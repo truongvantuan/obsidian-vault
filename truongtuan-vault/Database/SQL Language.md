@@ -12,3 +12,5 @@ Tính năng chính của `GROUP BY`:
 	2. Được nằm trong mệnh đề `GROUP BY`
 
 ## HAVING
+
+
