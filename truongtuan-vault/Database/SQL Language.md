@@ -11,6 +11,6 @@ Tính năng chính của `GROUP BY`:
 	1. Nằm trong hàm tổng hợp kết quả, hoặc:
 	2. Được nằm trong mệnh đề `GROUP BY`
 
-## HAVING
+## JOIN
 
-
+1. 
