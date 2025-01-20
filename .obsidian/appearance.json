@@ -3,5 +3,6 @@
   "baseFontSizeAction": false,
   "theme": "system",
   "textFontFamily": "Merriweather,Bookerly",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "accentColor": ""
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Database/SQL Language.md",
+                "file": "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Language"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -186,10 +186,15 @@
   },
   "active": "b345a2c3e96cfca7",
   "lastOpenFiles": [
+    "truongtuan-vault/Database/DDL - Data Definition Language.md",
+    "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
+    "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization",
+    "truongtuan-vault/Course/Untitled.md",
+    "truongtuan-vault/Course",
+    "truongtuan-vault/Database/SQL Language.md",
+    "truongtuan-vault/Docker/File manipulations.md",
     "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Database/PostgreSQL/Basic concept/Basic concepts.md",
-    "truongtuan-vault/Docker/File manipulations.md",
-    "truongtuan-vault/Database/SQL Language.md",
     "truongtuan-vault/Cache/Spring Boot caching.md",
     "truongtuan-vault/Cache/Cache patterns.md",
     "truongtuan-vault/Database/PostgreSQL/Basic concept",
@@ -217,12 +222,7 @@
     "Untitled",
     "truongtuan-vault/Message queue/Kafka Environment Variable.md",
     "truongtuan-vault/English/Words to rewind.md",
-    "truongtuan-vault/English",
     "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
-    "truongtuan-vault/Development stack",
-    "truongtuan-vault/Java Concerrency/From Jenkov.com/2. Concurrency models.md",
-    "truongtuan-vault/TODO/Learning TODO.md",
-    "truongtuan-vault/Untitled.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",

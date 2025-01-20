@@ -10,4 +10,4 @@ Tính năng chính của `GROUP BY`:
 - Column selection: tất cả các column trong `SELECT` phải tuần thủ:
 	1. Nằm trong hàm tổng hợp kết quả, hoặc:
 	2. Được nằm trong mệnh đề `GROUP BY`
-
+ 
