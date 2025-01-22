@@ -28,3 +28,19 @@ Same-Origin Policy bảo vệ các tài nguyên nào?
 3. Fetch AP: AJAX request thực hiện bởi origin khác bị chặn, trừ khi được chỉ định cụ thể bởi CORS.
 4. iframe: Nội dung được tải trong thẻ `<iframe>` từ một origin khác được cô lập.
 5. Web storage: Data được lưu trong localStorage, sessionStorage là duy nhất cho các origin  không thể truy cập chéo giữa các origin.
+
+## Cross-Origin Resource Sharing
+
+> Là cơ chế dựa vào HTTP-Header, cho phép server chỉ định origin nào khác tương tác với resource của server.
+### Preflight request
+
+- Browser gửi một "preflight" request tới server nơi lưu giữ cross-origin resource, nhằm kiểm tra trước việc server sẽ có phép thực hiện request thật.
+- "Preflight" request như việc hỏi trước server khả năng thực hiện cross-origin request.
+:LiMessageCircleQuestion: Khi nào cần thực hiện "preflight" request?
+1. Sử dụng các Request method khác GET, POST như: DELETE, PUT, PATCH.
+2. Request bao gồm custom headers như: Authorization, Content-Type: application/json, X-Custom-Header.
+:LiMessageCircleQuestion: Cách Preflight request hoạt động.
+1. Là một OPTIONS request, bao gồm các headers sau:
+	- Origin: origin domain thực hiện request.
+	- 
+
