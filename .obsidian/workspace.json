@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
+                "file": "truongtuan-vault/Web Securities/CORS - Cross-Origin Resource Sharing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "CORS - Cross-Origin Resource Sharing"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5110321044922
+    "width": 405.5110321044922
   },
   "right": {
     "id": "318bce68ace2bc8e",
@@ -186,8 +186,12 @@
   },
   "active": "b345a2c3e96cfca7",
   "lastOpenFiles": [
-    "truongtuan-vault/Database/DDL - Data Definition Language.md",
+    "truongtuan-vault/Gradle/Key elements of Groovy DSL.md",
+    "truongtuan-vault/Web Securities/CORS - Cross-Origin Resource Sharing.md",
+    "truongtuan-vault/Web Securities",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
+    "truongtuan-vault/Gradle",
+    "truongtuan-vault/Database/DDL - Data Definition Language.md",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization",
     "truongtuan-vault/Course/Untitled.md",
     "truongtuan-vault/Course",
@@ -217,12 +221,8 @@
     "truongtuan-vault/Task/Daily tasks.md",
     "truongtuan-vault/Task",
     "truongtuan-vault/Message queue/Kafka - How does it work?.md",
-    "truongtuan-vault/Cache",
     "Untitled/2024-12-31.md",
-    "Untitled",
     "truongtuan-vault/Message queue/Kafka Environment Variable.md",
-    "truongtuan-vault/English/Words to rewind.md",
-    "truongtuan-vault/Message queue/Kafka vs RabbitMQ.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
