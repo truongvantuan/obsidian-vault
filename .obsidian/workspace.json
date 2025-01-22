@@ -11,12 +11,10 @@
             "id": "3f0b5d659810d822",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-30 10.52.32.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -184,8 +182,8 @@
   },
   "active": "3f0b5d659810d822",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-22 10.17.19.excalidraw.md",
     "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 10.17.19.excalidraw.md",
     "truongtuan-vault/Web Securities/CORS - Cross-Origin Resource Sharing.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Docker/File manipulations.md",
