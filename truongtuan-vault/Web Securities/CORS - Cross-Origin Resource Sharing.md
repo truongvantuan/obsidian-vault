@@ -22,4 +22,9 @@ Example:
 Một website thực thi JS script (resource A) trên trình duyệt để đọc tài nguyên (resource B) tại một website khác (website đã được user đăng nhập).
 - A và B khác Origin, vi phạm Same-Origin policy.
 
-
+Same-Origin Policy bảo vệ các tài nguyên nào?
+1.  DOM access: Client-Side script đang chạy trên một website không thể truy cập và chỉnh sửa DOM của một website khác trừ khi same-origin.
+2. Cookies: Cookies từ một origin không thể truy cập bởi script từ một origin khác.
+3. Fetch AP: AJAX request thực hiện bởi origin khác bị chặn, trừ khi được chỉ định cụ thể bởi CORS.
+4. iframe: Nội dung được tải trong thẻ `<iframe>` từ một origin khác được cô lập.
+5. Web storage: Data được lưu trong localStorage, sessionStorage là duy nhất cho các origin  không thể truy cập chéo giữa các origin.

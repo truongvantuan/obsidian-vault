@@ -1,0 +1,4 @@
+1. examine: [verb] /ɪɡˈzæm.ɪn/
+	- to [look](https://dictionary.cambridge.org/us/dictionary/english/look "look") at or [consider](https://dictionary.cambridge.org/us/dictionary/english/consider "consider") a [person](https://dictionary.cambridge.org/us/dictionary/english/person "person") or thing [carefully](https://dictionary.cambridge.org/us/dictionary/english/carefully "carefully") and in [detail](https://dictionary.cambridge.org/us/dictionary/english/detail "detail") in [order](https://dictionary.cambridge.org/us/dictionary/english/order "order") to [discover](https://dictionary.cambridge.org/us/dictionary/english/discover "discover") something about them.
+2. explicitly: [adverd] /ɪkˈsplɪs.ɪt.li/
+	- in a way that is clear and exact.
