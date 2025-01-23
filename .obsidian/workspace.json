@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
+                "file": "truongtuan-vault/Java/Exceptions and Errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS - Cross-Origin Resource Sharing"
+              "title": "Exceptions and Errors"
             }
           }
         ]
@@ -186,9 +186,12 @@
   },
   "active": "3f0b5d659810d822",
   "lastOpenFiles": [
+    "truongtuan-vault/Java/Java Time and Date.md",
+    "truongtuan-vault/Java/Exceptions and Errors.md",
+    "truongtuan-vault/Java/Annotations.md",
+    "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
     "truongtuan-vault/TODO/Learning TODO.md",
     "truongtuan-vault/Web Security/Hashing Algorithms.md",
-    "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101944.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101328.png",
     "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
@@ -218,10 +221,7 @@
     "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/Microservices/Spring Cloud OpenFeign.md",
     "truongtuan-vault/Microservices/Race condition in Microservice.md",
-    "KAFKA_ADVERTISED_LISTENERS.md",
     "truongtuan-vault/Docker",
-    "truongtuan-vault/Spring Framework/Transaction Management.md",
-    "truongtuan-vault/Java/Java Time and Date.md",
     "truongtuan-vault/Database",
     "truongtuan-vault/Java",
     "truongtuan-vault/Task",
