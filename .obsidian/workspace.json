@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/TODO/Learning TODO.md",
+                "file": "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning TODO"
+              "title": "CORS - Cross-Origin Resource Sharing"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "3f0b5d659810d822",
   "lastOpenFiles": [
+    "truongtuan-vault/TODO/Learning TODO.md",
     "truongtuan-vault/Web Security/Hashing Algorithms.md",
     "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101944.png",
@@ -223,7 +224,6 @@
     "truongtuan-vault/Java/Java Time and Date.md",
     "truongtuan-vault/Database",
     "truongtuan-vault/Java",
-    "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
     "truongtuan-vault/Task",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",

@@ -1,3 +1,3 @@
 - [ ] Microservices Architecture pattern
 - [ ] Detail Design Document
-- [ ] Go through this article: https://medium.com/@arvind4gl/advanced-spring-boot-concepts-every-java-developer-should-master-45cd90ef3e98
+- [ ] :FabJava: Go through this article: https://medium.com/@arvind4gl/advanced-spring-boot-concepts-every-java-developer-should-master-45cd90ef3e98
