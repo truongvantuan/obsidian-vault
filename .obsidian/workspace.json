@@ -11,10 +11,14 @@
             "id": "3f0b5d659810d822",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "truongtuan-vault/TODO/Learning TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Learning TODO"
             }
           }
         ]
@@ -182,16 +186,19 @@
   },
   "active": "3f0b5d659810d822",
   "lastOpenFiles": [
+    "truongtuan-vault/Web Security/Hashing Algorithms.md",
+    "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
+    "truongtuan-vault/ZIMAGES/Pasted image 20250123101944.png",
+    "truongtuan-vault/ZIMAGES/Pasted image 20250123101328.png",
     "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
     "Excalidraw/Drawing 2025-01-22 10.17.19.excalidraw.md",
-    "truongtuan-vault/Web Securities/CORS - Cross-Origin Resource Sharing.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Docker/File manipulations.md",
     "truongtuan-vault/English/Words to rewind.md",
     "truongtuan-vault/Youtube  Videos/Video List.md",
     "truongtuan-vault/Task/Daily tasks.md",
     "truongtuan-vault/Gradle/Key elements of Groovy DSL.md",
-    "truongtuan-vault/Web Securities",
+    "truongtuan-vault/Web Security",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
     "truongtuan-vault/Gradle",
     "truongtuan-vault/Database/DDL - Data Definition Language.md",
@@ -217,7 +224,6 @@
     "truongtuan-vault/Database",
     "truongtuan-vault/Java",
     "truongtuan-vault/Spring Framework/Spring Security/SecurityFilterChain.md",
-    "truongtuan-vault/Spring Framework/Spring Security/Ant Matcher.md",
     "truongtuan-vault/Task",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
@@ -226,8 +232,6 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20241218132627.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241118113520.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241209112133.png",
-    "truongtuan-vault/ZIMAGES/Pasted image 20241209092235.png",
-    "truongtuan-vault/ZIMAGES/Pasted image 20241209092712.png",
     "truongtuan-vault/Untitled.canvas"
   ]
 }
