@@ -15,9 +15,13 @@
 1. Nằm ngoài phạm vi xử lý của chương trình.
 2. Gây dừng ứng dụng hoặc khởi động lại JVM.
 3. Không thường được catch hoặc handle.
+
 Example:
-1. OutOfMemoryError
+1. **OutOfMemoryError**
 	- Hết bộ nhớ RAM cho JVM hoạt động, tràn bộ nhớ RAM.
 	- Không thể allocate bộ nhớ cho JVM Heap.
-	- 
+	- **Metaspace**
+		- Được giới thiệu từ Java 8, giải quyết các vấn đề của PermGen (kích thước bộ nhớ fix cứng, phụ thuộc vào Heap).
+		- Fixed Size từ PermGen: không thể linh hoạt thay đổi size 
+		- 
 
