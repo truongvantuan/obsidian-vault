@@ -22,6 +22,6 @@ Example:
 	- Không thể allocate bộ nhớ cho JVM Heap.
 	- **Metaspace**
 		- Được giới thiệu từ Java 8, giải quyết các vấn đề của PermGen (kích thước bộ nhớ fix cứng, phụ thuộc vào Heap).
-		- Fixed Size từ PermGen: không thể linh hoạt thay đổi size 
+		- Fixed Size từ PermGen: không thể linh hoạt thay đổi size lúc runtime. Các framework như Spring, Hibernate với khả năng load class tự động thường gặp lỗi OutOfMemoryError.
+		- PermGen trước Java 8 là một phần của Heap, việc phụ thuộc làm khó tối ưu.
 		- 
-
