@@ -40,4 +40,9 @@
 1. Resource Owner đăng nhập thành công Authorization Server và cho phép Client truy cập Protected Resource.
 2. Authorization Server sinh Authorization Code gửi tới Client thông qua call back api.
 **Phase 2: Getting Access Token**
-3. 
+3. Client đăng ký với Authorization Server bằng Authorization Code và Client Credential.
+4. Client nhận về credential từ Authorization Server là Client ID và Client Secret.
+5. Client sử dụng Client ID và Client Secret để lấy Access Token.
+**Phase 3: Using Access Token**
+6. Protected Resource xác minh Acess Token từ client cho các lần truy cập tiếp theo.
+
