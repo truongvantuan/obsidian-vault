@@ -44,5 +44,5 @@
 4. Client nhận về credential từ Authorization Server là Client ID và Client Secret.
 5. Client sử dụng Client ID và Client Secret để lấy Access Token.
 **Phase 3: Using Access Token**
-6. Protected Resource xác minh Acess Token từ client cho các lần truy cập tiếp theo.
+6. Protected Resource xác minh Acess Token từ client cho các lần truy cập tiếp theo. 
 
