@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Accounts"
             }
+          },
+          {
+            "id": "46afc001b4c95381",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f0b5d659810d822",
+  "active": "46afc001b4c95381",
   "lastOpenFiles": [
     "truongtuan-vault/VTM/Database.md",
     "truongtuan-vault/VTM/Accounts.md",
