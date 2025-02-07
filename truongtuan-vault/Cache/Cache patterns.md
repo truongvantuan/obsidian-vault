@@ -9,11 +9,11 @@ Là một trong pattern cache phổ biến nhất. Logic truy xuất dữ liệu
 2. Nếu có data ở cache (a cache hit), data đã cache này được trả về.
 3. Nếu không có data ở cache (a cache miss), truy vấn data từ database. Lưu data đã truy vấn từ database vào cache, và trả về data này.
 
-Ưu điểm:
+**Ưu điểm**:
 1. Cache chỉ lưu data ứng dụng cần. Giúp tối ưu chi phí về dung lượng cache.
 2. Dễ triển khai.
 3. Mang lại hiệu quả ngay lập tức.
-Nhược điểm:
+**Nhược điểm**:
 1. Các request tới data chưa được cache cần thêm thời gian cho tải data từ database, set vào cache.
 
 ## Write-Through
