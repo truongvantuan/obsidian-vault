@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1af56b241a2d7e22",
+        "id": "1464e1c5aec80604",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0b5d659810d822",
+            "id": "be35af9f96d8ccaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "truongtuan-vault/Development stack/Document.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Document"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5110321044922,
-    "collapsed": true
+    "width": 405.5110321044922
   },
   "right": {
     "id": "318bce68ace2bc8e",
@@ -171,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5,
-    "collapsed": true
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +181,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3f0b5d659810d822",
+  "active": "be35af9f96d8ccaf",
   "lastOpenFiles": [
-    "truongtuan-vault/Development stack/Skills.md",
     "truongtuan-vault/Development stack/Document.md",
+    "truongtuan-vault/Development stack/Skills.md",
     "truongtuan-vault/Spring Framework/Spring Security/OAuth 2.0.md",
     "truongtuan-vault/Cache/Cache patterns.md",
     "truongtuan-vault/Spring Framework/Spring built-in Class, Functions.md",
