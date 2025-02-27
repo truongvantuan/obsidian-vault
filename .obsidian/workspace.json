@@ -11,10 +11,14 @@
             "id": "26aa6dd813b6c154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "truongtuan-vault/Database/SQL Language.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SQL Language"
             }
           }
         ]
@@ -183,6 +187,9 @@
   },
   "active": "26aa6dd813b6c154",
   "lastOpenFiles": [
+    "truongtuan-vault/Database/DDL - Data Definition Language.md",
+    "truongtuan-vault/Database/SQL Language.md",
+    "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Java/Annotations.md",
     "truongtuan-vault/Development stack/Document.md",
     "truongtuan-vault/Development stack/Skills.md",
@@ -210,12 +217,9 @@
     "truongtuan-vault/Web Security",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
     "truongtuan-vault/Gradle",
-    "truongtuan-vault/Database/DDL - Data Definition Language.md",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization",
     "truongtuan-vault/Course/Untitled.md",
     "truongtuan-vault/Course",
-    "truongtuan-vault/Database/SQL Language.md",
-    "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Database/PostgreSQL/Basic concept",
     "truongtuan-vault/Database/PostgreSQL",
     "truongtuan-vault/ZIMAGES/Pasted image 20250108112637.png",
