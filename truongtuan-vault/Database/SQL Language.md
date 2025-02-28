@@ -12,6 +12,8 @@ Tính năng chính của `GROUP BY`:
 	2. Được nằm trong mệnh đề `GROUP BY`
 ## SELECT
 
+### Cấu trúc SELECT
+
 **SELECT** statement có các mệnh đề sau:
 1. Chọn các row riêng biệt với **DISTINCT**
 2. Sắp xếp row với **ORDER BY**
@@ -24,4 +26,26 @@ Tính năng chính của `GROUP BY`:
 	1. UNION kết hợp kết quả và loại bỏ trùng lặp.
 	2. INTERSECT tìm kết quả chung giữa các kết quả từ SELECT.
 	3. EXCEPT lấy kết quả có trong select 1 và không có trong select 2.
+
+### Syntax SELECT
+
+- PostegreSQL thức tự xử lý từ FROM trước SELLECT.
+- `SELECT <list_select>`
+	- List select có thể là column, danh sách columns, expression, literal values.
+- `FROM <source_table>`
+	- FROM clause là optional.
+- SQL keywords là case-insensitive
+- `SELECT *`
+	- Database performance: lấy về nhiều data hơn cần thiết.
+	- Application performance: retrieve data không cần thiết làm tăng traffic giữ DB server và Application Server. Làm giản thời gian phản hồi và khả năng scale ứng dụng.
+### Column alias
+
+> Column Alias cho phép gán các thành phần trong SELECT list vào biến tạm.
+> Alias chỉ tồn tại tạm tời trong lúc thực thi câu lệnh.
+
+- Alias chứa space `AS "FULL NAME"`
+
+## ORDER BY
+
+> ORDER BY dùng để sắp xếp kết quả trả về từ câu SELECT.
 
