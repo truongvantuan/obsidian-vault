@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Database/SQL Language.md",
+                "file": "truongtuan-vault/Docker/Docker CLI snipets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Language"
+              "title": "Docker CLI snipets"
             }
           }
         ]
@@ -189,9 +189,14 @@
   },
   "active": "26aa6dd813b6c154",
   "lastOpenFiles": [
+    "truongtuan-vault/Docker/File manipulations.md",
+    "truongtuan-vault/Docker/Docker CLI snipets.md",
+    "truongtuan-vault/Code Testing/Spring Boot Test/Annotations.md",
+    "truongtuan-vault/Database/SQL Language.md",
+    "truongtuan-vault/Code Testing/Spring Boot Test",
+    "truongtuan-vault/Code Testing",
     "truongtuan-vault/ZIMAGES/Pasted image 20250228104243.png",
     "truongtuan-vault/Database/DDL - Data Definition Language.md",
-    "truongtuan-vault/Database/SQL Language.md",
     "truongtuan-vault/Database/Relational Database.md",
     "truongtuan-vault/Java/Annotations.md",
     "truongtuan-vault/Development stack/Document.md",
@@ -212,13 +217,11 @@
     "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
     "Excalidraw/Drawing 2025-01-22 10.17.19.excalidraw.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
-    "truongtuan-vault/Docker/File manipulations.md",
     "truongtuan-vault/English/Words to rewind.md",
     "truongtuan-vault/Youtube  Videos/Video List.md",
     "truongtuan-vault/Task/Daily tasks.md",
     "truongtuan-vault/Gradle/Key elements of Groovy DSL.md",
     "truongtuan-vault/Web Security",
-    "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization/1. Introduction.md",
     "truongtuan-vault/Gradle",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization",
     "truongtuan-vault/Course",
@@ -227,14 +230,11 @@
     "truongtuan-vault/ZIMAGES/Pasted image 20250108112637.png",
     "truongtuan-vault/Docker",
     "truongtuan-vault/Database",
-    "truongtuan-vault/Java",
-    "truongtuan-vault/Task",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218151241.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241218132627.png",
-    "truongtuan-vault/ZIMAGES/Pasted image 20241118113520.png",
     "truongtuan-vault/Untitled.canvas"
   ]
 }
