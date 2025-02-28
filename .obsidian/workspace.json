@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "SQL Language"
             }
+          },
+          {
+            "id": "7030adf4adda37ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26aa6dd813b6c154",
+  "active": "7030adf4adda37ac",
   "lastOpenFiles": [
     "truongtuan-vault/Database/DDL - Data Definition Language.md",
     "truongtuan-vault/Database/SQL Language.md",
