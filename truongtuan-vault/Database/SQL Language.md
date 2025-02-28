@@ -68,5 +68,5 @@ ORDER BY
   ...;
 ```
 
-- Sort multi column: lần lượt sort kết quả từ trái sang phải danh sách sort. Sort sau lấy kết quả sort trước để sắp xếp.
+- Sort multi column: lần lượt sort sort_expression từ trái sang phải danh sách sort. Sort sau lấy kết quả sort trước để sắp xếp.
 - 
