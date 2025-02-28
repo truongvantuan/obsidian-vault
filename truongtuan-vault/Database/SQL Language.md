@@ -29,6 +29,13 @@ Tính năng chính của `GROUP BY`:
 
 ### Syntax SELECT
 
+```sql
+SELECT
+   select_list
+FROM
+   table_name;
+```
+
 - PostegreSQL thức tự xử lý từ FROM trước SELLECT.
 - `SELECT <list_select>`
 	- List select có thể là column, danh sách columns, expression, literal values.
@@ -47,5 +54,19 @@ Tính năng chính của `GROUP BY`:
 
 ## ORDER BY
 
-> ORDER BY dùng để sắp xếp kết quả trả về từ câu SELECT.
+![[Pasted image 20250228104243.png]]
 
+> ORDER BY dùng để sắp xếp kết quả trả về từ câu SELECT.
+> Sắp xếp ASCENDING/DESCENDING/SORT EXPRESSION
+
+### Syntax
+
+``` sql
+ORDER BY
+  sort_expression1 [ASC | DESC],
+  sort_expression2 [ASC | DESC],
+  ...;
+```
+
+- Sort multi column: lần lượt sort kết quả từ trái sang phải danh sách sort. Sort sau lấy kết quả sort trước để sắp xếp.
+- 
