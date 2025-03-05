@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Spring Framework/Spring Boot/Spring Auto Configuration.md",
+                "file": "truongtuan-vault/Linux/Bash Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Auto Configuration"
+              "title": "Bash Script"
             }
           }
         ]
@@ -187,8 +187,12 @@
   },
   "active": "26aa6dd813b6c154",
   "lastOpenFiles": [
-    "truongtuan-vault/Spring Framework/Spring Boot/Spring Boot profiles.md",
+    "truongtuan-vault/Linux/Firefox Browser.md",
+    "truongtuan-vault/Linux/Bash Script.md",
+    "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/Spring Framework/Spring Boot/Spring Auto Configuration.md",
+    "truongtuan-vault/Untitled",
+    "truongtuan-vault/Spring Framework/Spring Boot/Spring Boot profiles.md",
     "truongtuan-vault/Spring Framework/Spring built-in Class, Functions.md",
     "truongtuan-vault/Code Testing/Spring Boot Test/Annotations.md",
     "truongtuan-vault/Web Security/Keycloak.md",
@@ -216,9 +220,6 @@
     "truongtuan-vault/Web Security/Hashing Algorithms.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101944.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101328.png",
-    "Excalidraw/Drawing 2024-12-30 10.52.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-22 10.17.19.excalidraw.md",
-    "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Web Security",
     "truongtuan-vault/Gradle",
     "truongtuan-vault/Course/Java Multithreading, Concurrency & Performance Optimization",
@@ -227,7 +228,6 @@
     "truongtuan-vault/Database/PostgreSQL",
     "truongtuan-vault/ZIMAGES/Pasted image 20250108112637.png",
     "truongtuan-vault/Docker",
-    "truongtuan-vault/Database",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102721.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223102640.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20241223100552.png",
