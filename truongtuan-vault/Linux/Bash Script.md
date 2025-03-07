@@ -5,6 +5,8 @@
 
 ## IF ELSE 
 
+
+
 ```bash
 if [ <variable> == <value> ]; then
 	[statement_here]
