@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Bash Script"
             }
-          },
-          {
-            "id": "78e90248ea9e0e2d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +185,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78e90248ea9e0e2d",
+  "active": "26aa6dd813b6c154",
   "lastOpenFiles": [
     "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Linux/Bash Script.md",

@@ -12,5 +12,3 @@ else
 	[statement_here]
 fi
 ```
-
-- 
