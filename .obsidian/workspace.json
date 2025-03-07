@@ -11,10 +11,14 @@
             "id": "1e76bc8e886f9d55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "truongtuan-vault/Linux/Bash Script.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bash Script"
             }
           }
         ]
