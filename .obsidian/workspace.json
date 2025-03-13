@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e8ffa3183d460ee",
+        "id": "b244075872915c30",
         "type": "tabs",
         "children": [
           {
-            "id": "1e76bc8e886f9d55",
+            "id": "c4dbd10eda36cc3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truongtuan-vault/Linux/Bash Script.md",
+                "file": "truongtuan-vault/HelloAlgo/Iteration and recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash Script"
+              "title": "Iteration and recursion"
             }
           }
         ]
@@ -185,13 +185,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e76bc8e886f9d55",
+  "active": "c4dbd10eda36cc3e",
   "lastOpenFiles": [
+    "truongtuan-vault/Untitled.md",
+    "truongtuan-vault/HelloAlgo/Iteration and recursion.md",
+    "truongtuan-vault/HelloAlgo",
     "truongtuan-vault/Linux/Bash Script.md",
     "truongtuan-vault/Linux/Firefox Browser.md",
     "truongtuan-vault/Linux/Kernel build.md",
     "truongtuan-vault/Spring Framework/Spring Boot/Spring Auto Configuration.md",
-    "truongtuan-vault/Untitled",
     "truongtuan-vault/Spring Framework/Spring Boot/Spring Boot profiles.md",
     "truongtuan-vault/Spring Framework/Spring built-in Class, Functions.md",
     "truongtuan-vault/Code Testing/Spring Boot Test/Annotations.md",
@@ -216,8 +218,6 @@
     "truongtuan-vault/Java/Exceptions and Errors.md",
     "truongtuan-vault/Java/Java Time and Date.md",
     "truongtuan-vault/Web Security/CORS - Cross-Origin Resource Sharing.md",
-    "truongtuan-vault/TODO/Learning TODO.md",
-    "truongtuan-vault/Web Security/Hashing Algorithms.md",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101944.png",
     "truongtuan-vault/ZIMAGES/Pasted image 20250123101328.png",
     "truongtuan-vault/Web Security",
