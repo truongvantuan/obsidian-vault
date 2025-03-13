@@ -5,7 +5,6 @@
 
 Syntax:
 ```java
-
 for ([initialization]; condition; update) {  
     // Code to be executed in each iteration  
 }
@@ -15,7 +14,7 @@ for (int i = 0, j = 10; i < j; i++, j--) {
 }
 
 for ( ; ; ) {
-
+	// Code to be executed in each iteration
 }
 ```
 
